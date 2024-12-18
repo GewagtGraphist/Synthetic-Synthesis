@@ -1,1 +1,1 @@
-# Synthetic Synthesis
+# Dialogues on the Philosophy of Design
