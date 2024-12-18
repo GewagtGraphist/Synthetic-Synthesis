@@ -1,1 +1,1 @@
-# Synthetic-Synthesis
+# Synthetic Synthesis
