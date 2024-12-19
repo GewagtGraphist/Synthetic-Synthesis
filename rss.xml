@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Synthetic Synthesis</title> 
     <link>https://gewagtgraphist.github.io/Synthetic-Synthesis/</link>
@@ -17,7 +17,11 @@
     <category>AI in Design</category>
     <language>en-us</language>
     <author>Synthetic Synthesis</author>
-    <copyright>Creative Commons license</copyright>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>2024 Synthetic Synthesis. Some Rights Reserved.</copyright>
+    <itunes:category text="Philosophy">
+      <itunes:category text="Design"/>
+    </itunes:category>
     <image>
       <url>https://gewagtgraphist.github.io/Synthetic-Synthesis/logo.png</url>
       <title>Synthetic Synthesis</title>
@@ -34,8 +38,6 @@
       <itunes:duration>18:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>Herbert Simon, Complex Systems</itunes:keywords>
-      <language>en-us</language>
-      <author>Synthetic Synthesis</author>
       <copyright>2024 Synthetic Synthesis. Some Rights Reserved.</copyright>
       <link>https://gewagtgraphist.github.io/Synthetic-Synthesis/episodes/E001.mp3</link>
       <guid>https://gewagtgraphist.github.io/Synthetic-Synthesis/episodes/E001.mp3</guid>
@@ -52,8 +54,6 @@
       <itunes:duration>46:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>Walter Benjamin, Photography, Philosophy, Epistemology, Design</itunes:keywords>
-      <language>en-us</language>
-      <author>Synthetic Synthesis</author>
       <copyright>2024 Synthetic Synthesis. Some Rights Reserved.</copyright>
       <link>https://gewagtgraphist.github.io/Synthetic-Synthesis/episodes/E002.mp3</link>
       <guid>https://gewagtgraphist.github.io/Synthetic-Synthesis/episodes/E002.mp3</guid>
