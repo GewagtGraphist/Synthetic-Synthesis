@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
     <title>Synthetic Synthesis on Design</title>
     <atom:link href="https://graph-ist.github.io/synthetic-synthesis/rss.xml" rel="self" type="application/rss+xml"/>
@@ -13,10 +13,10 @@
       <email>your.email@example.com</email>
     </owner>
     <webMaster>webmaster@example.com</webMaster>
-    <category>design</category>
-    <category>philosophy</category>
-    <category>technology</category>
-    <category>science</category>
+    <category>Design</category>
+    <category>Philosophy</category>
+    <category>Technology</category>
+    <category>Science</category>
     <language>en-us</language>
     <author>Synthetic Synthesis</author>
     <copyright>2024 Synthetic Synthesis. Some Rights Reserved.</copyright>
@@ -37,7 +37,7 @@
       <keywords>Herbert Simon, Complex Systems, Design Philosophy, Artificial Intelligence</keywords>
       <copyright>2024 Synthetic Synthesis. Some Rights Reserved.</copyright>
       <link>https://github.com/graph-ist/synthetic-synthesis/episodes/E001.mp3</link>
-      <guid>https://github.com/graph-ist/synthetic-synthesis/episodes/E001.mp3guid>
+      <guid>https://github.com/graph-ist/synthetic-synthesis/episodes/E001.mp3</guid>
       <enclosure url="https://github.com/graph-ist/synthetic-synthesis/episodes/E001.mp3" length="17947153" type="audio/mpeg"/>
       <duration>18:41</duration>
       <pubDate>Wed, 18 Dec 2024 12:00:00 GMT</pubDate>
