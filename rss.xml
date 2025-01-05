@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthetic Synthesis on Design</title>
     <atom:link href="https://graph-ist.github.io/synthetic-synthesis/rss.xml" rel="self" type="application/rss+xml"/>
