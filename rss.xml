@@ -13,18 +13,19 @@
       <email>your.email@example.com</email>
     </owner>
     <webMaster>webmaster@example.com</webMaster>
-    <category>Design</category>
-    <category>Philosophy</category>
+    <category>design</category>
+    <category>philosophy</category>
+    <category>technology</category>
+    <category>science</category>
     <language>en-us</language>
     <author>Synthetic Synthesis</author>
     <copyright>2024 Synthetic Synthesis. Some Rights Reserved.</copyright>
     <image>
       <url>https://graph-ist.github.io/synthetic-synthesis/logo.png</url>
-      <title>Synthetic Synthesis</title>
+      <title>Synthetic Synthesis on Design</title>
       <link>https://graph-ist.github.io/synthetic-synthesis</link>
     </image>
     <podcast:locked>yes</podcast:locked>
-    <podcast:funding url="https://patreon.com/synthetic-synthesis">Support this podcast</podcast:funding>
 
     <item>
       <title>The Architecture of Complexity</title>
@@ -40,7 +41,6 @@
       <enclosure url="https://graph-ist.github.io/synthetic-synthesis/episodes/E001.mp3" length="17947153" type="audio/mpeg"/>
       <duration>18:41</duration>
       <pubDate>Wed, 18 Dec 2024 12:00:00 GMT</pubDate>
-      <podcast:transcript url="https://graph-ist.github.io/synthetic-synthesis/episodes/E001-transcript.txt" type="text/plain"/>
     </item>
         
   </channel>
