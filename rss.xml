@@ -40,7 +40,11 @@
       <guid>https://github.com/graph-ist/synthetic-synthesis/episodes/E001.mp3</guid>
       <enclosure url="https://github.com/graph-ist/synthetic-synthesis/episodes/E001.mp3" length="17947153" type="audio/mpeg"/>
       <duration>18:41</duration>
-      <image><url>https://graph-ist.github.io/synthetic-synthesis/logo.png</url></image>
+      <image>
+        <url>https://graph-ist.github.io/synthetic-synthesis/logo.png</url>
+        <title>Synthetic Synthesis on Design</title>
+        <link>https://graph-ist.github.io/synthetic-synthesis</link>
+      </image>
       <pubDate>Wed, 18 Dec 2024 12:00:00 GMT</pubDate>
     </item>
         
